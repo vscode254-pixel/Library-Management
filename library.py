@@ -1,7 +1,7 @@
 
 """
 Library class for managing book collections.
-Team: Nexora
+Team: DalitechX
 """
 
 from book import Book

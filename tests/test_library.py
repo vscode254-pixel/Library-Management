@@ -1,7 +1,7 @@
 
 """
 Automated tests for the Library Management System.
-Team: Nexora
+Team: DalitechX
 """
 
 import unittest

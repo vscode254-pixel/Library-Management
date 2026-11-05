@@ -1,7 +1,7 @@
 
 """
 Book class for the Library Management System.
-Team: Nexora
+Team: DalitechX
 """
 
 
